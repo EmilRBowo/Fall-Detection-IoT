@@ -13,14 +13,14 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "EINSTEIN"
-#define WIFI_PASSWORD "emil23062001"
+#define WIFI_SSID 
+#define WIFI_PASSWORD 
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyAM2RGVIizrgf0558K1TcoI6HOCxVd6iTY"
+#define API_KEY 
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://fall-detection-iot-e3062-default-rtdb.firebaseio.com/" 
+#define DATABASE_URL  
 
 //Define Firebase Data object
 FirebaseData fbdo;
