@@ -1,5 +1,5 @@
 # Machine Learning Team C242-PS251 Bangkit Academy 2024
-=======
+Addition documentation in google drive [Drive Link](https://drive.google.com/drive/folders/1Zk2kEfhouY6Rv6DinkmH5G6AdLwaG-3J?usp=drive_link)
 ### Featured Technologies
 * [TensorFlow](https://www.tensorflow.org/)
 * [Emlearn](https://github.com/emlearn/emlearn)
@@ -75,8 +75,7 @@ Here is the detailed distribution of roles and contributions for the project:
 ---
 
 ## Project Documentation
-
-All documentation related to the *Machine Learning Capstone Project* can be found in the /documentation folder of this repository. The folder contains:
+All documentation related to the *Machine Learning Capstone Project* can be found in this repository. The folder contains:
 
 - *Jupyter Notebook:* A Jupyter Notebook is used to write and execute code for data preprocessing, exploration, and model training in machine learning projects, allowing for interactive analysis and visualization.
 
